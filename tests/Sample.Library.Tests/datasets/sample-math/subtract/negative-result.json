@@ -1,0 +1,7 @@
+{
+  "description": "Subtract where a is less than b",
+  "inputs": [3, 10],
+  "expect": {
+    "value": -7
+  }
+}

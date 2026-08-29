@@ -1,0 +1,7 @@
+{
+  "description": "Value already in range is returned unchanged",
+  "inputs": [5, 0, 10],
+  "expect": {
+    "value": 5
+  }
+}

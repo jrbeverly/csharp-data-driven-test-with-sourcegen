@@ -1,0 +1,7 @@
+{
+  "description": "When min equals max, clamp to that single value",
+  "inputs": [7, 5, 5],
+  "expect": {
+    "value": 5
+  }
+}

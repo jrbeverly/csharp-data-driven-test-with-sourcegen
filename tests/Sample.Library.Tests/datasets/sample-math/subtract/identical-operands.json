@@ -1,0 +1,7 @@
+{
+  "description": "Subtract two identical numbers",
+  "inputs": [5, 5],
+  "expect": {
+    "value": 0
+  }
+}

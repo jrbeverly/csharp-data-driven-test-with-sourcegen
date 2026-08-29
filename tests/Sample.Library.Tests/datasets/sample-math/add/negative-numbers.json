@@ -1,0 +1,7 @@
+{
+  "description": "Add two negative numbers",
+  "inputs": [-3, -7],
+  "expect": {
+    "value": -10
+  }
+}

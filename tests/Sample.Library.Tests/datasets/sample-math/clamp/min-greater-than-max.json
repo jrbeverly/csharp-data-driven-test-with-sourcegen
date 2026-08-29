@@ -1,0 +1,7 @@
+{
+  "description": "Clamp rejects invalid range where min is greater than max",
+  "inputs": [5, 10, 0],
+  "expect": {
+    "exception": "System.ArgumentException"
+  }
+}

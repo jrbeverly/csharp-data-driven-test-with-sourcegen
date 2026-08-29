@@ -1,0 +1,7 @@
+{
+  "description": "Clamps a value above the maximum",
+  "inputs": [15, 0, 10],
+  "expect": {
+    "value": 10
+  }
+}

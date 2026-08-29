@@ -1,0 +1,7 @@
+{
+  "description": "Add two positive numbers",
+  "inputs": [2, 3],
+  "expect": {
+    "value": 5
+  }
+}

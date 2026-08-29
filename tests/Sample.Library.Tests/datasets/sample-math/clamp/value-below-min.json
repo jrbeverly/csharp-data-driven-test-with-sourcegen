@@ -1,0 +1,7 @@
+{
+  "description": "Clamps a value below the minimum",
+  "inputs": [-5, 0, 10],
+  "expect": {
+    "value": 0
+  }
+}
